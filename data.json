@@ -1,0 +1,21 @@
+
+{
+  "socialMedia": {
+    "facebook": {
+      "followers_count": 1987,
+      "change": "+12"
+    },
+    "twitter": {
+      "followers_count": 1044,
+      "change": "+99"
+    },
+    "instagram": {
+      "followers_count": 11000,
+      "change": "+1099"
+    },
+    "youtube": {
+      "followers_count": 8239,
+      "change": "-144"
+    }
+  }
+}
